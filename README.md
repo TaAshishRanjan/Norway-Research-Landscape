@@ -1,5 +1,7 @@
-To run the code change the file path
-For better visualization, we have used Gephi.
+"To run the code change the file path
+For better visualization, we have used Gephi."
+
+
 This study takes a deep dive into the key research themes in Norway and how they
 have evolved over time. Leveraging Social Network Analysis (SNA) methods, we
 explored the relevance and intersections of different research topics. The data for
